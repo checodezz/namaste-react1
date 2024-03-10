@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is namaste react by chethan kumar",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/checodezz/namaste-react1.git"
+  },
+  "author": "Chethan Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/checodezz/namaste-react1/issues"
+  },
+  "homepage": "https://github.com/checodezz/namaste-react1#readme",
+  "devDependencies": {
+    "parcel": "2.12.0"
+  }
+}
