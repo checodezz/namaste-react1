@@ -9,3 +9,11 @@
 - Image Optimization
 - Bundling
 - Compressing
+- Consistant Hashing
+- Code Splitting
+- Differential Bundling
+- Diagonastic
+- Error Handling
+- HTTPs
+- Tree Shaking Algorithm - remove unused code
+- Different Dev and Production bundles
